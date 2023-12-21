@@ -1,2 +1,2 @@
-# StatisticsSimulations
+# Statistics Simulations
 Simulations of statistical concepts
